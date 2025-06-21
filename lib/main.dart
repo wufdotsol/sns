@@ -32,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   void _incrementCounter() {
     setState(() {
-      _counter++;
+      _counter += 10; // Increment by 10 instead of 1
     });
   }
 
