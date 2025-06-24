@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "snskenya",
     "public": "build/web",
     "ignore": [
       "firebase.json",
